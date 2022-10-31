@@ -1,8 +1,8 @@
 {
   "server": "0.0.0.0",
   "server_port": 8388,
-  "local_port": 1080,
-  "password": "5ouMnqPyzseL",
+  "local_port": 1087,
+  "password": "8h5NsDNt2HvhbWfuP",
   "timeout": 60,
   "method": "aes-256-cfb"
 }
